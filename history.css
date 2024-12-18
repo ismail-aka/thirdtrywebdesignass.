@@ -1,0 +1,118 @@
+body{
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url(images/Heroes.jpg);
+   background-repeat: no-repeat;
+    background-size: 100% 185%;
+    color:rgb(253, 244, 164);
+    line-height: 25px;
+    font-weight: bold;
+    font-size: 20px;
+}
+h1{
+    color: rgb(111, 143, 247);
+    text-align: center;
+    text-decoration: underline;
+}
+.homebtn{
+    color:  rgb(245, 123, 102);
+    font-weight: bold;
+    margin-top: 0px;
+    margin-left: 50%;
+    margin-right: 50%;
+    width: 100px;
+    height: 30PX;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    font-family: Arial;
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+Button{
+    align-content: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    border: none;
+    height: 300px;
+    color: white;
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 50px;
+    transition: 0.8s;
+    cursor: pointer;
+    border-radius: 15px;
+}
+    .Westafrica{
+    background-image: url(images/WestAfrican.jpg);
+    background-color: rgb(209, 164, 108);
+    }
+    .Westafrica:hover{
+    margin: 10px;
+    opacity: 0.8;
+    }
+    .Westafrica:active{
+    opacity: 0.4;
+    }
+    
+    
+    .Eastafrica{
+    background-image: url(images/eastmaasai.jpg);
+    background-color: rgb(145, 71, 61);
+    }
+    .Eastafrica:hover{
+    margin: 10px;
+    opacity: 0.8;
+    }
+    .Eastafrica:active{
+    opacity: 0.4;
+    }
+    
+    
+    .Northafrica{
+    background-image: url(images/northegyptian.jpg);
+    background-color: rgb(112, 181, 228);
+    }
+    .Northafrica:hover{
+    margin: 10px;
+    opacity: 0.8;
+    }
+    .Northafrica:active{
+    opacity: 0.4;
+    }
+    
+    
+    .Southafrica{
+    background-image: url(images/Sangodsouth.jpg);
+    background-color: rgb(108, 209, 162);
+    }
+    .Southafrica:hover{
+    margin: 10px;
+    opacity: 0.8;
+    }
+    .Southafrica:active{
+    opacity: 0.4;
+    }
+    
+    
+    .Centralafrica{
+    background-image: url(images/centralaf.jpg);
+    background-color: rgb(97, 65, 65);
+    }
+    .Centralafrica:hover{
+    margin: 10px;
+    opacity: 0.8;
+    }
+    .Centralafrica:active{
+    opacity: 0.4;
+    }
+    p{
+    color: aliceblue;
+    line-height: 25px;
+    font-family: Arial;
+    }

@@ -1,0 +1,30 @@
+body{
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url(images/newsletter.jpg);
+    background-size: 100% 185%;
+    color:antiquewhite;
+    line-height: 25px;
+}
+h1{
+    color: rgb(111, 143, 247);
+    text-align: center;
+    text-decoration: underline;
+}
+.homebtn{
+    color:  rgb(245, 123, 102);
+    font-weight: bold;
+    margin-top: 0px;
+    margin-left: 50%;
+    margin-right: 50%;
+    width: 100px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    font-family: Arial;
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+}
