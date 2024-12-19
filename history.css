@@ -4,7 +4,7 @@ body{
     padding: 0;
     background-image: url(images/pantheon.jpg);
    background-repeat: no-repeat;
-    background-size: 100% 100%;
+    background-size: cover;
     color:rgb(253, 244, 164);
     line-height: 25px;
     font-weight: bold;
@@ -19,8 +19,8 @@ h1{
     color:  rgb(245, 123, 102);
     font-weight: bold;
     margin-top: 0px;
-    margin-left: 50%;
-    margin-right: 50%;
+    margin-left: 45%;
+    margin-right: 45%;
     width: 100px;
     height: 30PX;
     padding-left: 10px;
